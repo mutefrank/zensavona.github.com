@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Recently...
 tagline: Supporting tagline
 ---
@@ -44,3 +44,13 @@ This theme is still unfinished. If you'd like to be added as a contributor, [ple
 We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
 
+<h1>Latest entries</h1>
+{% for post in site.posts limit:4 %}
+<h2>
+    <a href="/" rel="bookmark" title="Permanent link to ">{{ post.title }}</a>
+</h2>
+<span>{{ post.date | date: '%B' }} {{ post.date | date: '%e' }}, {{ post.date | date: '%Y' }}</span>
+<p>
+    {{ post.excerpt }}
+</p>
+{% endfor %}
