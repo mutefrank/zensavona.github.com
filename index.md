@@ -12,6 +12,6 @@ tagline: Supporting tagline
 </h4>
 <span>{{ post.date | date: '%B' }} {{ post.date | date: '%e' }}, {{ post.date | date: '%Y' }}</span>
 <p>
-    {{ post.excerpt }}
+    {{ post.content | replace:'more start -->','' | replace:'<!-- more end','' }}
 </p>
 {% endfor %}
