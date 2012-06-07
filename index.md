@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shit I've Said
+title: Recently...
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
