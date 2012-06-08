@@ -9,23 +9,7 @@
       </div>
         
 
-      <center>
-          <div class="pagination">
-          <ul>
-          {% if page.previous %}
-            <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
-          {% else %}
-            
-          {% endif %}
-            <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
-          {% if page.next %}
-            <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
-          {% else %}
-           
-          {% endif %}
-          </ul>
-        </div>
-      </center>
+      
       <div id="tags">
         {% unless page.tags == empty %}
           <h4>Tags</h4>
