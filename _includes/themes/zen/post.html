@@ -3,11 +3,11 @@
         <h4 class="center">~ {{ page.date | date_to_long_string }} ~</h4>
         <hr />
         {{ content }}
-      </div>
-      <div class="row span12">
+        <hr />
         <a href="https://twitter.com/share" class="twitter-share-button" data-via="zensavona">Tweet</a><g:plusone size="medium"></g:plusone>
+        {% include JB/comments %}
       </div>
-      <div class="row">{% include JB/comments %}</div>
+        
 
       <div id="tags">
         {% unless page.tags == empty %}
