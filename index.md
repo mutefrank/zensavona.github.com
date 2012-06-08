@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Recently...
+title: Zen Savona - 
 ---
 {% include JB/setup %}
 
@@ -10,7 +10,7 @@ title: Recently...
 	<h2>
 	    <a href="{{ post.url }}" rel="bookmark" title="Permanent link to ">{{ post.title }}</a>
 	</h2>
-	<span>{{ post.date | date: '%B' }} {{ post.date | date: '%e' }}, {{ post.date | date: '%Y' }}</span>
+	<span>{{ post.date | date: '%b' }} {{ post.date | date: '%e' }}, {{ post.date | date: '%y' }}</span>
 </center>
 <p>
     {{ post.content }}
