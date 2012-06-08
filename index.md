@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zen Savona - 
+title: Zen Savona - Ruby, CodeIgniter, Startups, Psychedelics
 ---
 {% include JB/setup %}
 
