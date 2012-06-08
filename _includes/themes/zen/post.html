@@ -4,9 +4,10 @@
         <hr />
         {{ content }}
       </div>
-      <a href="https://twitter.com/share" class="twitter-share-button" data-via="zensavona">Tweet</a><g:plusone size="medium"></g:plusone>
-
-      {% include JB/comments %}
+      <div class="row">
+        <a href="https://twitter.com/share" class="twitter-share-button" data-via="zensavona">Tweet</a><g:plusone size="medium"></g:plusone>
+      </div>
+      <div class="row">{% include JB/comments %}</div>
 
       <div id="tags">
         {% unless page.tags == empty %}
