@@ -10,7 +10,7 @@ title: Zen Savona -
 	<h2>
 	    <a href="{{ post.url }}" rel="bookmark" title="Permanent link to ">{{ post.title }}</a>
 	</h2>
-	<span>{{ post.date | date: '%b' }} {{ post.date | date: '%e' }}, {{ post.date | date: '%y' }}</span>
+	<span>{{ post.date | date_to_long_string }}</span>
 </center>
 <p>
     {{ post.content }}
