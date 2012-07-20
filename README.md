@@ -1,3 +1,3 @@
 # Gooby pls
 
-powrd bi dolan n bogs
+powrd bi **dolan** n **bogs**
