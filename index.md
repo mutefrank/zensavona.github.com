@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello Zen!
+title: Speed, Weed, Rubies...
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
