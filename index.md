@@ -5,6 +5,6 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-{% for post in site.posts.newest %}
+{% for post.newest in site.posts %}
 {% include JB/post_content %}
 {% endfor %}
