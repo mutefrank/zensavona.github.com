@@ -11,7 +11,16 @@ These are some of my goals for 2012, I'm crossing them off as I go...
 - decide on a startup idea which is to be pursued seriously
 - learn Objective C properly
 - learn Meteor and brush up on JavaScript
-- 
+
+### Life
+- Find a way to quit my job and not work 9-5, I feel I am much more productive when I set my own hours
+- decide definitely what I want to do next year
+
+### Fitness
+- Benchpress 100kg for 5 reps
+- Deadlift 200kg 1 rep max
+- be at least 95kg and relatively lean
+- Ride a bike (?)
 
 ### Projects
 - Launch [10Friends][] and run a sucessful nest with real people
