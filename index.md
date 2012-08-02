@@ -1,12 +1,11 @@
+{% assign post = site.posts.first %}
+{% assign content = post.content %}
 ---
 layout: page
-title:  Speed, Weed & Rubies.
+title:  post.title
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
-
-{% assign post = site.posts.first %}
-{% assign content = post.content %}
 
 <h1 class="entry-title">
 {% if post.title %}
