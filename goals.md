@@ -5,4 +5,8 @@ description: ""
 ---
 {% include JB/setup %}
 
-#Hi
+These are some of my goals for 2012, I'm crossing them off as I go...
+
+## Programming
+- ~~Engineer a startup idea which is to be pursued seriously~~
+- Eat some bread
