@@ -5,12 +5,10 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-{% assign post = site.posts.first %}
-{% assign content = post.content %}
-
-<h2>
-{% if post.title %}
-    <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
-{% endif %}
-</h2>
-<div class="entry-content">{{ content }}</div>
+<ul class="no-decoration">
+    {% for post in site.posts limit 4 %}
+    <li class="no-decoration"><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+        {{ post.content | strip_html | truncatewords:75}}<br>
+            <a href="{{ post.url }}">Read more...</a><br><br>
+    {% endfor %}
+</ul>
