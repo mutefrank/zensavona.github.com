@@ -1,13 +1,14 @@
-{% assign post = site.posts.first %}
-{% assign content = post.content %}
 ---
 layout: page
-title:  post.title
+title:  Speed, Weed & Rubies.
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-<h1 class="entry-title">
+{% assign post = site.posts.first %}
+{% assign content = post.content %}
+
+<h2 class="entry-title">
 {% if post.title %}
     <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
 {% endif %}
