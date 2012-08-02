@@ -8,9 +8,9 @@ tagline: Supporting tagline
 {% assign post = site.posts.first %}
 {% assign content = post.content %}
 
-<h1 class="entry-title">
+<h2 class="entry-title">
 {% if post.title %}
     <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
 {% endif %}
-</h1>
+</h2>
 <div class="entry-content">{{ content }}</div>

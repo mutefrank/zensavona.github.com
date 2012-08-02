@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Post title"
+title: "Speed, Weed & Rubies"
 description: ""
 category: ramblings
 tags: [ramblings, drugs]
 ---
 {% include JB/setup %}
-
-## Dating Site
 
 ### Ideas
 - http://blog.adamsmith.cc/2011/02/towards-better-online-dating.html
