@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Speed, Weed & Rubies"
+title: "My first post"
 description: ""
 category: ramblings
 tags: [ramblings, drugs]
