@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why you should never use GoDaddy ever again (even for a domain search)"
+title: "Why you should never use GoDaddy again"
 description: ""
 category: ramblings
 tags: [ramblings, startups]
