@@ -15,6 +15,7 @@ These are some of my goals for 2012, I'm crossing them off as I go...
 ### Life
 - Find a way to quit my job and not work 9-5, I feel I am much more productive when I set my own hours
 - decide definitely what I want to do next year
+- blog at least twice a week for the remainder of the year
 
 ### Fitness
 - Benchpress 100kg for 5 reps
