@@ -5,12 +5,12 @@ description: ""
 ---
 {% include JB/setup %}
 
-### Life
-- Find a way to quit my job and not work 9-5, I feel I am much more productive when I set my own hours
-- decide definitely what I want to do next year
-- blog at least twice a week for the remainder of the year
+### bio
 
+My name is Zen Savona, I'm a web developer from Brisbane, Australia. I'm interested in hacking [Meteor][], [PHP][] and try not to take myself too seriously. I sometimes [Tweet].
 ![Me][1]
 
 [1]: https://en.gravatar.com/userimage/13363990/4bd44ba6339e4525ad9f839f46244100.jpg?size=300  "Me"
-[Platnic]: http://platnic.com/
+[Meteor]: http://meteor.com/
+[PHP]: http://php.net/
+[Twitter]: https://twitter.com/zensavona
