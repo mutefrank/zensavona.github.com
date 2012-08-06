@@ -6,7 +6,7 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 <div class="blog-index">
-  {% for post in site.posts limit: 2 %}
+  {% for post in site.posts limit: 1 %}
   {% assign post = site.posts.first %}
   {% assign content = post.content %}
   {% include post_detail.html %}
