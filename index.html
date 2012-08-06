@@ -5,8 +5,10 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-<div class="blog-index">  
-  {% assign post = site.posts limit:2 %}
+<div class="blog-index">
+  {% for post in site.posts limit: 2 %}
+  {% assign post = site.posts.first %}
   {% assign content = post.content %}
   {% include post_detail.html %}
+  {% endfor %}
 </div>
