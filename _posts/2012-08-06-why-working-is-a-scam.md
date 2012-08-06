@@ -20,7 +20,6 @@ Unless you are an exception and absolutely love your 9-5 job, you are effectivel
 
 If you are happy with your corporate job, good for you. The point of this post is not to tell everyone what they should do, but to point out that if you are not happy doing what you're currently doing, **don't just suck it up, do something else** because right now, especially in IT, if your business idea fucks up, there are plenty of other jobs. The days of working with one company and scaling up the corporate ladder until you reach your comfortable seat on a high branch are over.
 
->Just be prepared for a long and often uncertain journey. The good stuff doesn't come easy.
-<i>(Tim Westergren, Pandora)</i>
+>Just be prepared for a long and often uncertain journey. The good stuff doesn't come easy. <i>(Tim Westergren, Pandora)</i>
 
 Now stop being lazy and go take some risks, **because if you fail, at least you can say you tried**.
