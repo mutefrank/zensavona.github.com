@@ -15,7 +15,7 @@ Developer accounts (or, API access) need to be 'users as a service', rather than
 
 ### Why App.net will succeed (or at least why I think it will)
 
-It has been said by many people (and notably Sam) that App.net is not throwing a wide enough net. I disagree, I think the choice of targeting developers first is a good one - developers are early adopters by nature, and by (initially) making this a community of primarily tech people they are enlisting the best possible group to give quality feedback about the API. A great API will lead to great things being built on top of it, which will potentially lead to more widespread adoption. Dalton and his team are niching to win and my opinion is that they are doing it right.
+It has been said by many people (and notably [Sam]) that App.net is not throwing a wide enough net. I disagree, I think the choice of targeting developers first is a good one - developers are early adopters by nature, and by (initially) making this a community of primarily tech people they are enlisting the best possible group to give quality feedback about the API. A great API will lead to great things being built on top of it, which will potentially lead to more widespread adoption. Dalton and his team are niching to win and my opinion is that they are doing it right.
 
 ### Introducing [Friendle.me]
 
