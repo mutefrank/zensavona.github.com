@@ -14,6 +14,6 @@ My name is Zen Savona, I'm a web developer from Brisbane, Australia. I'm interes
 [Meteor]: http://meteor.com/
 [PHP]: http://php.net/
 [Go]: http://golang.org/
-[Twitter]: https://twitter.com/zensavona
+[Tweet]: https://twitter.com/zensavona
 [@zen]: http://alpha.app.net/zen
 [App.net]: http://join.app.net
