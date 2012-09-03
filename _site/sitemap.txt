@@ -2,9 +2,16 @@
 http://zensavona.com/pages.html
 http://zensavona.com/tags.html
 http://zensavona.com/atom.xml
+http://zensavona.com/goals.html
 http://zensavona.com/index.html
 http://zensavona.com/categories.html
+http://zensavona.com/index.html
 http://zensavona.com/archive.html
 http://zensavona.com/sitemap.txt
+http://zensavona.com/who-am-i.html
 
-http://zensavona.com/lessons/2011/12/29/jekyll-introduction
+http://zensavona.com/2012/get-your-shit-together-people
+http://zensavona.com/2012/what-appnet-really-can-be-if-we-let-it
+http://zensavona.com/2012/introducing-friendle
+http://zensavona.com/2012/why-working-is-a-scam
+http://zensavona.com/2012/why-you-should-never-use-godaddy-ever-again
