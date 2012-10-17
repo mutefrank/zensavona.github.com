@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Speed, Weed, Rubies...
+title: Sex, Drugs, Source Control.
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
