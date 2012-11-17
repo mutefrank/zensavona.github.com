@@ -4,7 +4,7 @@
  <title>Zen Savona</title>
  <link href="http://zensavona.com/atom.xml" rel="self"/>
  <link href="http://zensavona.com"/>
- <updated>2012-09-03T11:12:18+10:00</updated>
+ <updated>2012-11-17T18:17:04-05:00</updated>
  <id>http://zensavona.com</id>
  <author>
    <name>Zen Savona</name>
@@ -13,9 +13,17 @@
 
  
  <entry>
+   <title>On trust</title>
+   <link href="http://zensavona.com/2012/on-trust"/>
+   <updated>2012-11-17T00:00:00-05:00</updated>
+   <id>http://zensavona.com/2012/on-trust</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
    <title>Get your shit together, people</title>
    <link href="http://zensavona.com/2012/get-your-shit-together-people"/>
-   <updated>2012-09-03T00:00:00+10:00</updated>
+   <updated>2012-09-03T00:00:00-04:00</updated>
    <id>http://zensavona.com/2012/get-your-shit-together-people</id>
    <content type="html">&lt;blockquote&gt;
 &lt;p&gt;Disclaimer: I live in Brisbane, Australia. My only real window to what is happening in silicon valley is HN and the blogs of various founders and VCs from the valley. If my assumptions are completely wrong, please do let me know.&lt;/p&gt;
@@ -75,7 +83,7 @@
  <entry>
    <title>What App.net really can be (if we let it)</title>
    <link href="http://zensavona.com/2012/what-appnet-really-can-be-if-we-let-it"/>
-   <updated>2012-08-12T00:00:00+10:00</updated>
+   <updated>2012-08-12T00:00:00-04:00</updated>
    <id>http://zensavona.com/2012/what-appnet-really-can-be-if-we-let-it</id>
    <content type="html">&lt;p&gt;You need to stop thinking that &lt;a href='https://join.app.net'&gt;App.net&lt;/a&gt; is a Twitter clone right now, because it&amp;#8217;s not. Think of the &amp;#8216;alpha&amp;#8217; in alpha.app.net as indicating not only that what we see is an alpha version of their web app (which is powered by the much tech blog ignored API) but an alpha model and example of one of numerous ways to consume the API&amp;#8217;s data. What needs to happen is that &lt;a href='https://join.app.net'&gt;App.net&lt;/a&gt;&amp;#8217;s API becomes a high quality, developer friendly, secure &amp;#8216;social network in a box&amp;#8217;, which developers can use to build applications whom all have &amp;#8216;first class citizen&amp;#8217; access to the user&amp;#8217;s information, posts, messages, relationships, privacy settings etc.&lt;/p&gt;
 
@@ -97,7 +105,7 @@
  <entry>
    <title>Introducing Friendle</title>
    <link href="http://zensavona.com/2012/introducing-friendle"/>
-   <updated>2012-08-12T00:00:00+10:00</updated>
+   <updated>2012-08-12T00:00:00-04:00</updated>
    <id>http://zensavona.com/2012/introducing-friendle</id>
    <content type="html">&lt;p&gt;I&amp;#8217;ve been using &lt;a href='https://alpha.app.net'&gt;alpha.app.net&lt;/a&gt; for the past few days and it has given me so many ideas as to how a social community should function. Particularly the way conversations and user relationships should be handled.&lt;/p&gt;
 
@@ -113,7 +121,7 @@
  <entry>
    <title>Why working is a scam</title>
    <link href="http://zensavona.com/2012/why-working-is-a-scam"/>
-   <updated>2012-08-06T00:00:00+10:00</updated>
+   <updated>2012-08-06T00:00:00-04:00</updated>
    <id>http://zensavona.com/2012/why-working-is-a-scam</id>
    <content type="html">&lt;h3 id='working_a_real_job_is_a_scam'&gt;Working a &amp;#8220;real&amp;#8221; job is a scam.&lt;/h3&gt;
 
@@ -137,7 +145,7 @@
  <entry>
    <title>Why you should never use GoDaddy again</title>
    <link href="http://zensavona.com/2012/why-you-should-never-use-godaddy-ever-again"/>
-   <updated>2012-08-02T00:00:00+10:00</updated>
+   <updated>2012-08-02T00:00:00-04:00</updated>
    <id>http://zensavona.com/2012/why-you-should-never-use-godaddy-ever-again</id>
    <content type="html">&lt;p&gt;Although this is untimately my fault, because I had the thought in the back of my mind at the time, I happened to be on GoDaddy&amp;#8217;s site for something work related and had the &amp;#8220;it won&amp;#8217;t happen to me&amp;#8221; mentality at the time, so I quickly checked if an idea for a domain for my side-project was available because it popped to mind in that moment. It was&amp;#8230;&lt;/p&gt;
 
