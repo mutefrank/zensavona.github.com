@@ -4,13 +4,59 @@
  <title>Zen Savona</title>
  <link href="http://zensavona.com/atom.xml" rel="self"/>
  <link href="http://zensavona.com"/>
- <updated>2012-09-03T11:12:18+10:00</updated>
+ <updated>2012-12-03T14:58:59+10:00</updated>
  <id>http://zensavona.com</id>
  <author>
    <name>Zen Savona</name>
    <email>z@zensavona.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Don't be a hater</title>
+   <link href="http://zensavona.com/2012/dont-be-a-hater"/>
+   <updated>2012-12-03T00:00:00+10:00</updated>
+   <id>http://zensavona.com/2012/dont-be-a-hater</id>
+   <content type="html">&lt;blockquote&gt;
+&lt;p&gt;100% of haters are unrealized potential &amp;#8230; (for example) Michael Jordan&amp;#8217;s not a hater, when you get to that level you don&amp;#8217;t have time to hate.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is a really important point that &lt;a href='http://www.youtube.com/watch?v=CJv5Nc4Hl8k'&gt;Joe Rogan and Byran Callen&lt;/a&gt; make, if you&amp;#8217;re doing something awesome and you&amp;#8217;re good at it you have no time or desire to point out and pick on the shortcomings of other people - if they&amp;#8217;re going to fail that&amp;#8217;s usually obvious and they can manage that by themselves, you don&amp;#8217;t need to help them along or point it out in a narcissistic way.&lt;/p&gt;
+
+&lt;p&gt;As much as the tech community likes to think that we embrace trying and failure, we still have a horrible culture of putting shit on each other (often on Hacker News or our blogs) - unless someone does something particularly nasty to you personally there is really no need to do this - what is it going to achieve? It seems like every day there is at least one or two posts on HN which are some form of non-constructive criticism about someone else&amp;#8217;s opinion or project. If you really gave a shit and wanted to help them rather than just trying to grab a little bit of the spotlight, you&amp;#8217;d email them privately with something like this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Hey John, I noticed you&amp;#8217;re doing ____, I happened to do that before on a project of my own and if you use _____ instead it will probably save you a ton of headaches. Good luck!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It&amp;#8217;s as simple as that, it&amp;#8217;ll take you all of 10 minutes rather than an hour to write a long rant of a blog post and you might actually help the guy rather than publicly put them down. Just think about why you&amp;#8217;re writing things for a moment before you put (metaphorical) pen to paper.&lt;/p&gt;
+
+&lt;p&gt;That concludes my hater-hating rant.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>On trust</title>
+   <link href="http://zensavona.com/2012/on-trust"/>
+   <updated>2012-11-17T00:00:00+10:00</updated>
+   <id>http://zensavona.com/2012/on-trust</id>
+   <content type="html">&lt;blockquote&gt;
+&lt;p&gt;In retrospect, this seems obvious - but I think all real realisations are that way, aren&amp;#8217;t they?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I&amp;#8217;ve been told by many people throughout my life to &amp;#8220;only ever trust yourself&amp;#8221; - I never really interpreted this correctly and as a result, thought it was some closed minded and shitty advice; turns out I was wrong.&lt;/p&gt;
+
+&lt;h2 id='only_trusting_yourself_vs_trusting_yourself_to_judge_others'&gt;Only trusting yourself vs. trusting yourself to judge others&lt;/h2&gt;
+
+&lt;p&gt;The really important differentiation here is between &amp;#8220;only trusting yourself&amp;#8221; (or more specifically, the implication of not trusting anyone else) and trusting your instincts (which I think is a much better way of putting this idea). Trusting your instincts is extremely important - sometimes they&amp;#8217;re wrong, but most of the time they aren&amp;#8217;t.&lt;/p&gt;
+
+&lt;h2 id='if_you_feel_deep_down_that_you_can_entrust_your_life_to_a_person_trust_your_own_judgement'&gt;If you feel deep down that you can entrust your life to a person, trust your own judgement.&lt;/h2&gt;
+
+&lt;p&gt;Sounds ludicrous right? But really, if you don’t think you can rely on your own &lt;span&gt;seemingly rash&lt;/span&gt; judgement, how do you feel comfortable trusting anyone else’s judgement? It makes no sense. In the last 6 months or so I’ve rapidly become a much more confident person, much of this I attribute to trusting myself; there are more instances than I care to mention where I’ve acted upon someone else’s advice (in the past) in spite of my gut feeling being different, only to realise months (or years) later that I was right.&lt;/p&gt;
+
+&lt;h2 id='trust_yourself_take_risks_and_own_your_failures'&gt;Trust yourself, take risks and own your failures&lt;/h2&gt;
+
+&lt;p&gt;Sounds obvious and silly to the initiated, but I wish I had the sense to realise this a long time ago.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Get your shit together, people</title>
@@ -47,7 +93,7 @@
 
 &lt;p&gt;Remember this: business is about selling things to people. People are just like you - if you are working on something which you would not personally &lt;strong&gt;stand outside in the cold for a couple of hours to pay money for&lt;/strong&gt;, you&amp;#8217;re probably doing it wrong (Well, not quite to that extent, but I&amp;#8217;m sure you know what I mean).&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt='People waiting to buy some cool-ass shiny Apple shit' src='http://www-bgr-com.vimg.net/wp-content/uploads/2012/01/beijingchina-iphone-4s-launch.jpeg' /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src='http://www-bgr-com.vimg.net/wp-content/uploads/2012/01/beijingchina-iphone-4s-launch.jpeg' alt='People waiting to buy some cool-ass shiny Apple shit' /&gt;&lt;/p&gt;
 
 &lt;p&gt;The other thing to remember is that most consumers &lt;i&gt;do not really care&lt;/i&gt; about (or understand) how your product is &lt;i&gt;slightly better&lt;/i&gt; in some way than what they use right now - for them, it&amp;#8217;s much easier to stick with writing shit down on a piece of paper than figure out how to use your swanky web-based AJAXy responsive &amp;#8216;disruptive&amp;#8217; to-do list which syncs between multiple devices and uses local storage for fast access to data.&lt;/p&gt;
 
