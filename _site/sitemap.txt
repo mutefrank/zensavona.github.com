@@ -3,7 +3,6 @@ http://zensavona.com/pages.html
 http://zensavona.com/tags.html
 http://zensavona.com/atom.xml
 http://zensavona.com/goals.html
-http://zensavona.com/index.html
 http://zensavona.com/categories.html
 http://zensavona.com/WIP/In defense of BritRuby and white males.html
 http://zensavona.com/index.html

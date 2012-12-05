@@ -1,14 +1,20 @@
 ---
 layout: page
-title: Sex, Drugs, Source Control.
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
 <div class="blog-index">
-  {% for post in site.posts limit: 1 %}
-  {% assign post = site.posts.first %}
-  {% assign content = post.content %}
-  {% include post_detail.html %}
-  {% endfor %}
+<h3>Essays</h3>
+	<div class="posts">
+		<ul>
+  			{% for post in site.posts %}
+	  			{% assign post = site.posts.first %}
+	  			{% assign content = post.content %}
+				{% if post.title %}
+				    <li class="home">{{ post.date | date: '%d %B, %Y' }} &raquo; <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a></li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+	</div>
 </div>
