@@ -1,3 +1,1 @@
-# Gooby pls
-
-powrd bi **dolan** n **bogs**
+# zen.id.au / zensavona.com / zensavona.github.com
