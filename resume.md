@@ -22,7 +22,7 @@ I have completed some university but I am mainly self-taught, I've mainly focuse
 
 ## Experience
 
-
+<p>
 #### Travel Consultant, Flight Centre Limited (full time)
 New Farm, QLD — Jul 2011 - Jan 2012
 Making sales and maintaining customer relationships.
@@ -32,8 +32,9 @@ Making sales and maintaining customer relationships.
 - Managing relationships with large volumes of clients.
 - Making sales to meet challenging targets.
 - Performing many roles in the running of a small-medium business.
+</p>
 
-
+<p>
 #### Information Services Officer, Clarence Valley Council (part time/casual)
 Maclean, NSW — Jan 2012 - May 2012
 Handling and delegating helpdesk tickets, computer hard/software repair and configuration, server management and maintenance.
@@ -43,3 +44,4 @@ Handling and delegating helpdesk tickets, computer hard/software repair and conf
 - Rolling out hardware and software upgrades over multiple sites.
 - Managing inventory of council property.
 - Performing repair, maintenance and upgrades of both desktop and server hardware.
+</p>
