@@ -18,7 +18,7 @@ I have completed some university but I am mainly self-taught, I've mainly focuse
 - Solid experience taking ownership of a legacy codebase, learning it and extending/updating.
 - Expereience with Asterisk, SIP and other PBX technologies.
 - MySQL, SQL Server and MongoDB.
-
+<br />
 
 ## Experience
 
