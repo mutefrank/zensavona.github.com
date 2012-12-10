@@ -24,10 +24,8 @@ I have completed some university but I am mainly self-taught, I've mainly focuse
 
 #### Travel Consultant, Flight Centre Limited
 New Farm, QLD — Jul 2011 - Jan 2012
-
 Making sales and maintaining customer relationships.
-
-Skills and Responsibilities
+###### Skills and Responsibilities
 - Handling large sums of cash and taking payments.
 - Working independently and managing time effectively.
 - Managing relationships with large volumes of clients.
