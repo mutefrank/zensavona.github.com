@@ -2,21 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Zen Savona</title>
- <link href="http://zensavona.com/atom.xml" rel="self"/>
- <link href="http://zensavona.com"/>
- <updated>2012-12-05T15:13:06+10:00</updated>
- <id>http://zensavona.com</id>
+ <link href="http://zen.id.au/atom.xml" rel="self"/>
+ <link href="http://zen.id.au"/>
+ <updated>2012-12-10T12:54:51+10:00</updated>
+ <id>http://zen.id.au</id>
  <author>
-   <name>Zen Savona</name>
-   <email>z@zensavona.com</email>
+   <name></name>
+   <email></email>
  </author>
 
  
  <entry>
+   <title>How long till Apple makes a touchscreen iMac?</title>
+   <link href="http://zen.id.au/2012/how-long-till-apple-makes-a-touchscreen-imac"/>
+   <updated>2012-12-08T00:00:00+10:00</updated>
+   <id>http://zen.id.au/2012/how-long-till-apple-makes-a-touchscreen-imac</id>
+   <content type="html">&lt;p&gt;I had a strange dream last night (seriously, you know you have issues when your &lt;em&gt;dream is set in an Apple store&lt;/em&gt;). So I was in the Apple store trying to explain the iMac to my mum - I picked up an iPad and explained to her that the iMac is essentially just a big iPad. I proceeded to swipe and tap the iMac&amp;#8217;s 27&amp;#8221; screen just like I would the iPad. It worked beautifully - this makes me remember how before the iPad there were plethoras of &amp;#8216;tablet PCs&amp;#8217; which never really took off; Apple came along, did it right and a few short years later iPads are eating the consumer PC market.&lt;/p&gt;
+
+&lt;p&gt;I wonder if they can do the same with touchscreen PCs&amp;#8230; (HP Touchsmart, anyone?).&lt;/p&gt;
+
+&lt;p&gt;Just food for thought, but with OS X becoming more and more &amp;#8216;iOS-y&amp;#8217; and the rise of Windows 8 touchscreen laptops (a la Lenovo Yoga 13) this would make a whole lot of sense, wouldn&amp;#8217;t it?&lt;/p&gt;
+
+&lt;p&gt;Let me know what you think.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
    <title>Don't be a hater</title>
-   <link href="http://zensavona.com/2012/dont-be-a-hater"/>
+   <link href="http://zen.id.au/2012/dont-be-a-hater"/>
    <updated>2012-12-03T00:00:00+10:00</updated>
-   <id>http://zensavona.com/2012/dont-be-a-hater</id>
+   <id>http://zen.id.au/2012/dont-be-a-hater</id>
    <content type="html">&lt;blockquote&gt;
 &lt;p&gt;100% of haters are unrealized potential &amp;#8230; (for example) Michael Jordan&amp;#8217;s not a hater, when you get to that level you don&amp;#8217;t have time to hate.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -36,9 +50,9 @@
  
  <entry>
    <title>On trust</title>
-   <link href="http://zensavona.com/2012/on-trust"/>
+   <link href="http://zen.id.au/2012/on-trust"/>
    <updated>2012-11-17T00:00:00+10:00</updated>
-   <id>http://zensavona.com/2012/on-trust</id>
+   <id>http://zen.id.au/2012/on-trust</id>
    <content type="html">&lt;blockquote&gt;
 &lt;p&gt;In retrospect, this seems obvious - but I think all real realisations are that way, aren&amp;#8217;t they?&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -60,9 +74,9 @@
  
  <entry>
    <title>Get your shit together, people</title>
-   <link href="http://zensavona.com/2012/get-your-shit-together-people"/>
+   <link href="http://zen.id.au/2012/get-your-shit-together-people"/>
    <updated>2012-09-03T00:00:00+10:00</updated>
-   <id>http://zensavona.com/2012/get-your-shit-together-people</id>
+   <id>http://zen.id.au/2012/get-your-shit-together-people</id>
    <content type="html">&lt;blockquote&gt;
 &lt;p&gt;Disclaimer: I live in Brisbane, Australia. My only real window to what is happening in silicon valley is HN and the blogs of various founders and VCs from the valley. If my assumptions are completely wrong, please do let me know.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -93,7 +107,7 @@
 
 &lt;p&gt;Remember this: business is about selling things to people. People are just like you - if you are working on something which you would not personally &lt;strong&gt;stand outside in the cold for a couple of hours to pay money for&lt;/strong&gt;, you&amp;#8217;re probably doing it wrong (Well, not quite to that extent, but I&amp;#8217;m sure you know what I mean).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src='http://www-bgr-com.vimg.net/wp-content/uploads/2012/01/beijingchina-iphone-4s-launch.jpeg' alt='People waiting to buy some cool-ass shiny Apple shit' /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt='People waiting to buy some cool-ass shiny Apple shit' src='http://www-bgr-com.vimg.net/wp-content/uploads/2012/01/beijingchina-iphone-4s-launch.jpeg' /&gt;&lt;/p&gt;
 
 &lt;p&gt;The other thing to remember is that most consumers &lt;i&gt;do not really care&lt;/i&gt; about (or understand) how your product is &lt;i&gt;slightly better&lt;/i&gt; in some way than what they use right now - for them, it&amp;#8217;s much easier to stick with writing shit down on a piece of paper than figure out how to use your swanky web-based AJAXy responsive &amp;#8216;disruptive&amp;#8217; to-do list which syncs between multiple devices and uses local storage for fast access to data.&lt;/p&gt;
 
@@ -120,9 +134,9 @@
  
  <entry>
    <title>What App.net really can be (if we let it)</title>
-   <link href="http://zensavona.com/2012/what-appnet-really-can-be-if-we-let-it"/>
+   <link href="http://zen.id.au/2012/what-appnet-really-can-be-if-we-let-it"/>
    <updated>2012-08-12T00:00:00+10:00</updated>
-   <id>http://zensavona.com/2012/what-appnet-really-can-be-if-we-let-it</id>
+   <id>http://zen.id.au/2012/what-appnet-really-can-be-if-we-let-it</id>
    <content type="html">&lt;p&gt;You need to stop thinking that &lt;a href='https://join.app.net'&gt;App.net&lt;/a&gt; is a Twitter clone right now, because it&amp;#8217;s not. Think of the &amp;#8216;alpha&amp;#8217; in alpha.app.net as indicating not only that what we see is an alpha version of their web app (which is powered by the much tech blog ignored API) but an alpha model and example of one of numerous ways to consume the API&amp;#8217;s data. What needs to happen is that &lt;a href='https://join.app.net'&gt;App.net&lt;/a&gt;&amp;#8217;s API becomes a high quality, developer friendly, secure &amp;#8216;social network in a box&amp;#8217;, which developers can use to build applications whom all have &amp;#8216;first class citizen&amp;#8217; access to the user&amp;#8217;s information, posts, messages, relationships, privacy settings etc.&lt;/p&gt;
 
 &lt;h3 id='users_as_a_service'&gt;Users as a service&lt;/h3&gt;
@@ -142,9 +156,9 @@
  
  <entry>
    <title>Introducing Friendle</title>
-   <link href="http://zensavona.com/2012/introducing-friendle"/>
+   <link href="http://zen.id.au/2012/introducing-friendle"/>
    <updated>2012-08-12T00:00:00+10:00</updated>
-   <id>http://zensavona.com/2012/introducing-friendle</id>
+   <id>http://zen.id.au/2012/introducing-friendle</id>
    <content type="html">&lt;p&gt;I&amp;#8217;ve been using &lt;a href='https://alpha.app.net'&gt;alpha.app.net&lt;/a&gt; for the past few days and it has given me so many ideas as to how a social community should function. Particularly the way conversations and user relationships should be handled.&lt;/p&gt;
 
 &lt;h3 id='both_facebook_and_twitters_approach_to_handling_user_relationships_are_broken'&gt;Both Facebook and Twitters approach to handling user relationships are broken&lt;/h3&gt;
@@ -158,9 +172,9 @@
  
  <entry>
    <title>Why working is a scam</title>
-   <link href="http://zensavona.com/2012/why-working-is-a-scam"/>
+   <link href="http://zen.id.au/2012/why-working-is-a-scam"/>
    <updated>2012-08-06T00:00:00+10:00</updated>
-   <id>http://zensavona.com/2012/why-working-is-a-scam</id>
+   <id>http://zen.id.au/2012/why-working-is-a-scam</id>
    <content type="html">&lt;h3 id='working_a_real_job_is_a_scam'&gt;Working a &amp;#8220;real&amp;#8221; job is a scam.&lt;/h3&gt;
 
 &lt;p&gt;In Australia, the average life expectency is 81. Let&amp;#8217;s assume for a moment that a person starts working full time at 21 and retires at 60, this is assuming you are earning an above average salary (the &amp;#8220;retirement age&amp;#8221; in Australia is actually 65). This means you will work full time for 39 years. If you average 4 full work days per week over your working life, you will have spent just &lt;strong&gt;over 22 years&lt;/strong&gt; at work.&lt;/p&gt;
@@ -182,9 +196,9 @@
  
  <entry>
    <title>Why you should never use GoDaddy again</title>
-   <link href="http://zensavona.com/2012/why-you-should-never-use-godaddy-ever-again"/>
+   <link href="http://zen.id.au/2012/why-you-should-never-use-godaddy-ever-again"/>
    <updated>2012-08-02T00:00:00+10:00</updated>
-   <id>http://zensavona.com/2012/why-you-should-never-use-godaddy-ever-again</id>
+   <id>http://zen.id.au/2012/why-you-should-never-use-godaddy-ever-again</id>
    <content type="html">&lt;p&gt;Although this is untimately my fault, because I had the thought in the back of my mind at the time, I happened to be on GoDaddy&amp;#8217;s site for something work related and had the &amp;#8220;it won&amp;#8217;t happen to me&amp;#8221; mentality at the time, so I quickly checked if an idea for a domain for my side-project was available because it popped to mind in that moment. It was&amp;#8230;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&amp;#8220;cool&amp;#8221; I thought, and continued with my work.&lt;/strong&gt;&lt;/p&gt;

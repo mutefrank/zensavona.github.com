@@ -1,19 +1,21 @@
 
-http://zensavona.com/pages.html
-http://zensavona.com/tags.html
-http://zensavona.com/atom.xml
-http://zensavona.com/goals.html
-http://zensavona.com/categories.html
-http://zensavona.com/WIP/In defense of BritRuby and white males.html
-http://zensavona.com/index.html
-http://zensavona.com/archive.html
-http://zensavona.com/sitemap.txt
-http://zensavona.com/who-am-i.html
+http://zen.id.au/packager.yml
+http://zen.id.au/pages.html
+http://zen.id.au/tags.html
+http://zen.id.au/atom.xml
+http://zen.id.au/goals.html
+http://zen.id.au/categories.html
+http://zen.id.au/WIP/In defense of BritRuby and white males.html
+http://zen.id.au/index.html
+http://zen.id.au/archive.html
+http://zen.id.au/sitemap.txt
+http://zen.id.au/who-am-i.html
 
-http://zensavona.com/2012/dont-be-a-hater
-http://zensavona.com/2012/on-trust
-http://zensavona.com/2012/get-your-shit-together-people
-http://zensavona.com/2012/what-appnet-really-can-be-if-we-let-it
-http://zensavona.com/2012/introducing-friendle
-http://zensavona.com/2012/why-working-is-a-scam
-http://zensavona.com/2012/why-you-should-never-use-godaddy-ever-again
+http://zen.id.au/2012/how-long-till-apple-makes-a-touchscreen-imac
+http://zen.id.au/2012/dont-be-a-hater
+http://zen.id.au/2012/on-trust
+http://zen.id.au/2012/get-your-shit-together-people
+http://zen.id.au/2012/what-appnet-really-can-be-if-we-let-it
+http://zen.id.au/2012/introducing-friendle
+http://zen.id.au/2012/why-working-is-a-scam
+http://zen.id.au/2012/why-you-should-never-use-godaddy-ever-again
