@@ -6,3 +6,9 @@ tagline: Supporting tagline
 
 # Resume
 
+## About me
+- z@zensavona.com
+- 0459194574
+My name's Zen,
+
+##
