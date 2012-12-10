@@ -17,6 +17,10 @@ author :
   github : zensavona
   twitter : zensavona
   feedburner : zensavona
+author :
+  gravatar :
+    url : https://en.gravatar.com/userimage/13363990/4bd44ba6339e4525ad9f839f46244100.jpg
+    caption : Looking snazzy...
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
