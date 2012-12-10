@@ -4,12 +4,15 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-# Resume
-
-## About me
+## Basic Info
 <p>email: z@zensavona.com</p>
 <p>phone: 0459194574</p>
 <p>web: http://zen.id.au</p>
-My name's Zen,
+My name's Zen, my favourite things to play with are Go, Javascript, Ruby and PHP (in that order). I also like messing about with Ardurinos and the like - although my knowlege of hardware hacking is still in it's very infancy, it's a really fun thing to do. I'm a full stack developer and I've learnt bits and pieces along the way as needed.
 
-##
+I have completed some university but I am mainly self-taught, I've mainly focused on things that interest me but I am very good at picking up new technologies quickly and have proven this over time (having never touched Ruby or any kind of testing before my current position).
+
+## Skills
+- Highly proficient with Go and PHP (Codeigniter, FuelPHP)
+- Proficient with Javascript (Node, jQuery/Zepto, Chrome APIs, a little Backbone), Ruby (Sinatra, Rack), Linux, OS X, Git (In house and hosted on Github - I am used to a pull request centric workflow), Boxgrinder, Chef, Heroku, AWS, B/TDD (Cucumber, Jasmine, PHPUnit, Poltergeist), MVC, JSON, REST, etc.
+- 
