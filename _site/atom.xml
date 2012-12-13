@@ -4,13 +4,37 @@
  <title>Zen Savona</title>
  <link href="http://zen.id.au/atom.xml" rel="self"/>
  <link href="http://zen.id.au"/>
- <updated>2012-12-10T12:56:52+10:00</updated>
+ <updated>2012-12-13T15:16:58+10:00</updated>
  <id>http://zen.id.au</id>
  <author>
    <name>Zen Savona</name>
    <email>z@zensavona.com</email>
  </author>
 
+ 
+ <entry>
+   <title>My first tablet - a review of the iPad 1</title>
+   <link href="http://zen.id.au/2012/my-first-tablet---a-review-of-the-ipad-1"/>
+   <updated>2012-12-13T00:00:00+10:00</updated>
+   <id>http://zen.id.au/2012/my-first-tablet---a-review-of-the-ipad-1</id>
+   <content type="html">&lt;p&gt;I am a developer but I think although I have no real experience in graphic design or UX I have a good eye for product design and user experience. I&amp;#8217;ve mainly used android phones and tablets, so this review comes with that in mind.&lt;/p&gt;
+
+&lt;p&gt;I happened to have an iPad 1 64GB 3G offered to me for a stupidly small amount of money - although I didn&amp;#8217;t really plan on buying one, I couldn&amp;#8217;t pass it up and thought I&amp;#8217;ll find out what all the fuss is about. My main computers are a current generation MacBook Pro 15&amp;#8221; and a fairly beefy Linux desktop. I take my MacBook with me places, so if I can replace some of it&amp;#8217;s duties with something a third of the weight and size that would be nice.&lt;/p&gt;
+
+&lt;h3 id='the_ipad_and_ios'&gt;The iPad and iOS&lt;/h3&gt;
+
+&lt;p&gt;First impressions so far are that it is a really good idea but needs refining, it&amp;#8217;s not quite right in some respects. I use it for both consuming and creating content, so input is very important for me - I like to write blog posts, emails and reasonably long comments and responses on various websites (no coding, I save that for a proper keyboard). I find it just slightly too slow for regular browsing and app usage coming from a Galaxy Nexus phone, it&amp;#8217;s definitely less buggy and jerky in it&amp;#8217;s OS and software next to android 4.1. The best way i can describe what using the OS feels like coming from someone who has used pretty much exclusively android for the last few years is like using a manual typewriter versus an electric one - it is slow but still responsive and elegant. My android phone (and all the tablets out there I&amp;#8217;ve used) feel much faster in terms of things loading, pages rendering etc but the actual experience on the iPad is much smoother (although slower) because the UI doesn&amp;#8217;t freeze or become buggy and erratic when doing something intensive. It will rarely freeze and skip pages or any other unexpected behavior that Android users have come to expect. I am often pleasantly surprised by it&amp;#8217;s accuracy and intuitiveness when it comes to things like copypasting, selecting text and other really simple functionality that android struggles to make easy and obvious. I think the current generation iPad will be a Windows to Mac kind of feeling from my android phone experience, especially with the smart cover - being able to angle it on tables and my lap&amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;The things I use the most are Safari, Twitter, Mail.app, Facebook and iA writer (what I&amp;#8217;m writing this blog post with right now). I would like to use Chrome and GMail but I find on he first gen iPad they are noticeably slow compared to apple&amp;#8217;s (more) native apps.&lt;/p&gt;
+
+&lt;h3 id='ia_writer'&gt;iA Writer&lt;/h3&gt;
+
+&lt;p&gt;iA Writer is a beautiful piece of software. Everything In it is so intuitive, well thought out and nicely implemented (even more impressively so than than the Mac app in my opinion). It looks and feels like it has been built by &lt;a href='http://en.wikipedia.org/wiki/The_Mythical_Man-Month#The_surgical_team'&gt;a surgeon&lt;/a&gt;. The iCloud and Dropbox integration is flawless and the extended keyboard is fantastic - The only things I would change are the addition of a &amp;#8216;delete&amp;#8217; key, although I never used this in the past, the more time I spend in front of my desktop the more I see myself reaching for this on my MacBook (and now iPad) and the option to use the extended keyboard all over the OS as a replacement (I&amp;#8217;m not sure how possible this is?)&lt;/p&gt;
+
+&lt;h3 id='conclusions'&gt;Conclusions&lt;/h3&gt;
+
+&lt;p&gt;I can see that many of the things which bother me have been solved with the later generations of the device (smart cover to tilt it, faster processor, lighter etc) - my only issue which isn&amp;#8217;t solved is the actual screen size. I find that the touchscreen keyboard is surprisingly comfortable to use considering that it&amp;#8217;s a piece of glass, but it&amp;#8217;s about half an inch to an inch too small to fit my whole two hands over it (I have fairly large hands and fingers). If it were slightly larger and the processor were faster (a la current generation iPad) I can envisage myself touch typing effectively. Maybe I need to play with the Microsoft Surface and it&amp;#8217;s slightly larger screen? I will have to investigate and write a follow up in the future.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>How long till Apple makes a touchscreen iMac?</title>
@@ -107,7 +131,7 @@
 
 &lt;p&gt;Remember this: business is about selling things to people. People are just like you - if you are working on something which you would not personally &lt;strong&gt;stand outside in the cold for a couple of hours to pay money for&lt;/strong&gt;, you&amp;#8217;re probably doing it wrong (Well, not quite to that extent, but I&amp;#8217;m sure you know what I mean).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src='http://www-bgr-com.vimg.net/wp-content/uploads/2012/01/beijingchina-iphone-4s-launch.jpeg' alt='People waiting to buy some cool-ass shiny Apple shit' /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt='People waiting to buy some cool-ass shiny Apple shit' src='http://www-bgr-com.vimg.net/wp-content/uploads/2012/01/beijingchina-iphone-4s-launch.jpeg' /&gt;&lt;/p&gt;
 
 &lt;p&gt;The other thing to remember is that most consumers &lt;i&gt;do not really care&lt;/i&gt; about (or understand) how your product is &lt;i&gt;slightly better&lt;/i&gt; in some way than what they use right now - for them, it&amp;#8217;s much easier to stick with writing shit down on a piece of paper than figure out how to use your swanky web-based AJAXy responsive &amp;#8216;disruptive&amp;#8217; to-do list which syncs between multiple devices and uses local storage for fast access to data.&lt;/p&gt;
 
