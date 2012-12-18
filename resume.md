@@ -8,7 +8,7 @@ tagline: Supporting tagline
 <p>email: z@zensavona.com</p>
 <p>phone: 0459194574</p>
 <p>web: http://zen.id.au</p>
-My name's Zen, my favourite things to play with are Go, Javascript, Ruby and PHP (in that order). I also like messing about with Ardurinos and the like - although my knowlege of hardware hacking is still in it's very infancy, it's a really fun thing to do. I'm a full stack developer and I've learnt bits and pieces along the way as needed.
+My favourite things to play with are Go, Javascript, Ruby and PHP (in that order). I also like messing about with Ardurinos and the like - although my knowlege of hardware hacking is still in it's very infancy, it's a really fun thing to do. I'm a full stack developer and I've learnt bits and pieces of all kinds of things along the way as needed.
 
 I have completed some university but I am mainly self-taught, I've mainly focused on things that interest me but I am very good at picking up new technologies quickly and have proven this over time (having never touched Ruby or any kind of testing before my current position).
 
@@ -18,7 +18,6 @@ I have completed some university but I am mainly self-taught, I've mainly focuse
 - Solid experience taking ownership of a legacy codebase, learning it and extending/updating.
 - Expereience with Asterisk, SIP and other PBX technologies.
 - MySQL, SQL Server and MongoDB.
-<br />
 
 ## Experience
 
