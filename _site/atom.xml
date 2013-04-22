@@ -4,13 +4,29 @@
  <title>Zen Savona</title>
  <link href="http://zen.id.au/atom.xml" rel="self"/>
  <link href="http://zen.id.au"/>
- <updated>2013-01-21T11:49:49+10:00</updated>
+ <updated>2013-04-22T10:36:36+10:00</updated>
  <id>http://zen.id.au</id>
  <author>
    <name>Zen Savona</name>
    <email>z@zensavona.com</email>
  </author>
 
+ 
+ <entry>
+   <title>My understanding of App.Net (and why it's bad for developers)</title>
+   <link href="http://zen.id.au/2013/my-understanding-of-appnet-and-why-its-bad-for-developers"/>
+   <updated>2013-04-22T00:00:00+10:00</updated>
+   <id>http://zen.id.au/2013/my-understanding-of-appnet-and-why-its-bad-for-developers</id>
+   <content type="html">&lt;p&gt;Let me start off by saying that I am a big supporter of the &lt;em&gt;idea&lt;/em&gt; behind &lt;a href='http://app.net'&gt;App.Net&lt;/a&gt; and I have a lot of respect for Dalton and the guys behind it - it&amp;#8217;s great. &lt;a href='https://medium.com/future-tech-future-market/81dd36429f47'&gt;An article I read this morning&lt;/a&gt; did get me thinking though.&lt;/p&gt;
+
+&lt;p&gt;I agree that the idea of having an underlying architecture that multiple social products are built upon is awesome, and that the potential benefit to users is huge, what I don&amp;#8217;t agree with is that it&amp;#8217;s good for developers (financially). As a developer, getting users to pay for (or even use) my software is a hard sell - if I power my software with something like App.Net I am essentially telling my users that they &lt;em&gt;also&lt;/em&gt; have to go buy some other product that they probably don&amp;#8217;t understand for an additional price per year (on top of whatever I do or don&amp;#8217;t charge them). At worst this means they won&amp;#8217;t consider using my otherwise attractive thing, at best it means I&amp;#8217;m sharing a lot of potential revenue with App.Net.&lt;/p&gt;
+
+&lt;p&gt;App.Net&amp;#8217;s answer to this is the &lt;a href='http://blog.app.net/2012/09/27/announcing-the-app-net-developer-incentive-program/'&gt;Developer Incentive Program&lt;/a&gt; (tl;dr: ADN will give a share of &lt;em&gt;$n&lt;/em&gt; per month to apps which users rate highly) - to me this is not a good way of making revenue. The fact remains that ADN is charging each user $36/year to use &lt;em&gt;my&lt;/em&gt; app, then allocating a set amount of money per month to pay developers with.&lt;/p&gt;
+
+&lt;p&gt;What I think should happen is this: users sign up to App.Net for free, and they charge me when a user signs up to my service (i.e. I pay to use their social app infrastructure on a per-user basis). This means that the developer is the customer rather than the user - I even like this approach better from the perspective of the customer having input in the direction of the product and the customer now being me.&lt;/p&gt;
+
+&lt;p&gt;Just my 2&amp;#162;&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Github for government</title>
@@ -183,7 +199,7 @@
 
 &lt;p&gt;Remember this: business is about selling things to people. People are just like you - if you are working on something which you would not personally &lt;strong&gt;stand outside in the cold for a couple of hours to pay money for&lt;/strong&gt;, you&amp;#8217;re probably doing it wrong (Well, not quite to that extent, but I&amp;#8217;m sure you know what I mean).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src='http://www-bgr-com.vimg.net/wp-content/uploads/2012/01/beijingchina-iphone-4s-launch.jpeg' alt='People waiting to buy some cool-ass shiny Apple shit' /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt='People waiting to buy some cool-ass shiny Apple shit' src='http://www-bgr-com.vimg.net/wp-content/uploads/2012/01/beijingchina-iphone-4s-launch.jpeg' /&gt;&lt;/p&gt;
 
 &lt;p&gt;The other thing to remember is that most consumers &lt;i&gt;do not really care&lt;/i&gt; about (or understand) how your product is &lt;i&gt;slightly better&lt;/i&gt; in some way than what they use right now - for them, it&amp;#8217;s much easier to stick with writing shit down on a piece of paper than figure out how to use your swanky web-based AJAXy responsive &amp;#8216;disruptive&amp;#8217; to-do list which syncs between multiple devices and uses local storage for fast access to data.&lt;/p&gt;
 

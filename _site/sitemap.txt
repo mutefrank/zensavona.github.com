@@ -5,13 +5,14 @@ http://zen.id.au/tags.html
 http://zen.id.au/atom.xml
 http://zen.id.au/goals.html
 http://zen.id.au/categories.html
-http://zen.id.au/WIP/In defense of BritRuby and white males.html
+http://zen.id.au/WIP/abgt.html
 http://zen.id.au/index.html
 http://zen.id.au/archive.html
 http://zen.id.au/resume.html
 http://zen.id.au/sitemap.txt
 http://zen.id.au/who-am-i.html
 
+http://zen.id.au/2013/my-understanding-of-appnet-and-why-its-bad-for-developers
 http://zen.id.au/2013/github-for-government
 http://zen.id.au/2012/my-first-tablet---a-review-of-the-ipad-1
 http://zen.id.au/2012/how-long-till-apple-makes-a-touchscreen-imac
