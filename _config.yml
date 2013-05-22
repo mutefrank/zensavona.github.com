@@ -21,6 +21,12 @@ author :
     url : https://en.gravatar.com/userimage/13363990/4bd44ba6339e4525ad9f839f46244100.jpg
     caption : Looking snazzy...
 
+# for rss
+name: Zen Savona
+description: Bits of my life
+url: http://zen.id.au
+
+
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
